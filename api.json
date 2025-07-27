@@ -1,0 +1,34 @@
+{
+  "stgMstSalesman": [
+    {
+      "nik": "123456",
+      "salesmanName": "John Doe",
+      "regionCode": "REG01",
+      "ouName": "Unit A",
+      "territoryCode": "TERR01",
+      "districtCode": "DIST01",
+      "spvName": "Jane Smith",
+      "userId": "jdoe123"
+    },
+    {
+      "nik": "654321",
+      "salesmanName": "Alice Brown",
+      "regionCode": "REG02",
+      "ouName": "Unit B",
+      "territoryCode": "TERR02",
+      "districtCode": "DIST02",
+      "spvName": "Bob White",
+      "userId": "abrown456"
+    },
+    {
+      "nik": "789012",
+      "salesmanName": "Michael Smith",
+      "regionCode": "REG03",
+      "ouName": "Unit C",
+      "territoryCode": "TERR03",
+      "districtCode": "DIST03",
+      "spvName": "Sarah Johnson",
+      "userId": "msmith789"
+    }
+  ]
+}
